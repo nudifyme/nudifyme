@@ -1,3 +1,7 @@
+
+![Profile views](https://komarev.com/ghpvc/?username=nudifyme&color=blue)
+![Total Stars](https://img.shields.io/github/stars/nudifyme?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
 - 👋 Hi, I’m @nudifyme
 - 👀 I’m interested in deepnude technology
 - 🌱 I’m currently working on nudify.me
